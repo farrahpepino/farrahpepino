@@ -14,6 +14,6 @@ Beyond coding, I enjoy sketching people and architectures, tattooing, and readin
 
 
 ### 💌 Get in Touch  
-- LinkedIn: [https://www.linkedin.com/in/farrah-p-138166245/](#)  
+- LinkedIn: [https://www.linkedin.com/in/farrahpepino/](#)  
 
 
