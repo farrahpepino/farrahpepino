@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm Farrah  
+# Hi, I'm Farrah  
 
 ### 👩🏽‍💻 About Me  
 I'm a Computer Science student at New Jersey City Univesity. I love creating— from making art to building softwares.  
