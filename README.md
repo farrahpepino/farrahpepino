@@ -1,8 +1,7 @@
 # Hi, I'm Farrah  
 
 ### About Me  
-I'm a Computer Science student at New Jersey City Univesity. I love creating— from making art to building softwares.  
-
+I build softwares and teach CS concepts to learn. 
 
 ### Technologies & Tools  
 - **Languages:** TypeScript, JavaScript, Java, C#, Python, SQL  
