@@ -1,4 +1,4 @@
-#### cleaner code with each commit 
+
 
 #### Technologies & Tools  
 - **Languages:** TypeScript, JavaScript, Java, C#, Python, SQL  
