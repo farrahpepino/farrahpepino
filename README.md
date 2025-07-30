@@ -7,7 +7,4 @@ MySql, MongoDB, Firebase
 Figma, Adobe Illustrator
   
 
-###### Get in Touch  
-LinkedIn: https://www.linkedin.com/in/farrahpepino/
-
 
