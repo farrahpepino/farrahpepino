@@ -1,13 +1,13 @@
 
 
 ###### Technologies & Tools  
-- **Languages:** TypeScript, JavaScript, Java, C#, Python, SQL  
-- **Frameworks:** React, Express, Angular, .Net
-- **Databases:** MySql, MongoDB, Firebase  
-- **Other:** Figma, Adobe Illustrator
+TypeScript, JavaScript, Java, C#, Python, SQL  
+React, Express, Angular, .Net
+MySql, MongoDB, Firebase  
+Figma, Adobe Illustrator
   
 
 ###### Get in Touch  
-- LinkedIn: https://www.linkedin.com/in/farrahpepino/
+LinkedIn: https://www.linkedin.com/in/farrahpepino/
 
 
